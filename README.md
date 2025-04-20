@@ -54,7 +54,3 @@ lib/
 
 - google_fonts: For custom text styling
 - transparent_image: For image loading with placeholders
-
-## License
-
-[Add your license information here]
