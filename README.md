@@ -1,6 +1,11 @@
 # Meals App
 
-Um aplicativo de receitas interativo desenvolvido com Flutter e gerenciamento de estado usando Riverpod.
+| Tela de Categorias | Detalhes da Receita | Filtros |
+|:---:|:---:|:---:|
+| ![Categorias](screenshots/categories.png) | ![Detalhes](screenshots/meal_details.png) | ![Filtros](screenshots/filters.png) |
+| **Tela de Favoritos** | **Drawer** | **Lista de Receitas** |
+| ![Favoritos](screenshots/favorites.png) | ![Drawer](screenshots/drawer.png) | ![Lista](screenshots/meals_list.png) |
+
 
 ## 📱 Visão Geral
 
@@ -16,7 +21,6 @@ Meals App é um aplicativo de receitas que permite aos usuários navegar por dif
   - Sem Lactose
   - Vegano
   - Vegetariano
-- **Interface Responsiva:** Design adaptável com animações fluidas.
 
 ## 🏗️ Arquitetura
 
@@ -78,11 +82,3 @@ O aplicativo utiliza o sistema de temas do Flutter e implementa:
 - Controles de navegação intuitivos
 - Cores vibantes para cada categoria culinária
 - Transparência para efeitos visuais usando `withValues(alpha: valor)`
-
-## 📸 Screenshots
-
-| Tela de Categorias | Detalhes da Receita | Filtros |
-|:---:|:---:|:---:|
-| ![Categorias](screenshots/categories.png) | ![Detalhes](screenshots/meal_details.png) | ![Filtros](screenshots/filters.png) |
-| **Tela de Favoritos** | **Drawer** | **Lista de Receitas** |
-| ![Favoritos](screenshots/favorites.png) | ![Drawer](screenshots/drawer.png) | ![Lista](screenshots/meals_list.png) |
