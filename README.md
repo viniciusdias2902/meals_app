@@ -21,6 +21,7 @@ Meals App é um aplicativo de receitas que permite aos usuários navegar por dif
   - Sem Lactose
   - Vegano
   - Vegetariano
+- **Animações:** O aplicativo oferece animações suaves que melhoram a experiência do usuário, incluindo transições fluídas entre telas (com **SlideTransition**), animações de ícones (como a estrela de favoritos utilizando **AnimatedSwitcher**) e animações de transições visuais entre elementos de tela com **Hero Animation**.
 
 ## 🏗️ Arquitetura
 
