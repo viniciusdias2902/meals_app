@@ -85,4 +85,4 @@ O aplicativo utiliza o sistema de temas do Flutter e implementa:
 |:---:|:---:|:---:|
 | ![Categorias](screenshots/categories.png) | ![Detalhes](screenshots/meal_details.png) | ![Filtros](screenshots/filters.png) |
 | **Tela de Favoritos** | **Drawer** | **Lista de Receitas** |
-| ![Favoritos](screenshots/favorites.png) | ![Drawer](screenshots/drawer.png) |
+| ![Favoritos](screenshots/favorites.png) | ![Drawer](screenshots/drawer.png) | ![Lista](screenshots/meals_list.png) |
